@@ -3,6 +3,8 @@
 ## I'm a work in  QA Automation, JS, WebdriverIO, Cypress, Plawright, Cucumber
 - I like to write code
 - I am constantly learning new things
+- 🌱 I’m currently learning ...
+
 
 <!--
 **Y3star/Y3star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
