@@ -1,9 +1,8 @@
 ### Hi there 👋 , I'm Eduard
 
 ## I'm a work in  QA Automation, JS, WebdriverIO, Cypress, Plawright, Cucumber
-- I like to write code
-- I am constantly learning new things
-- 🌱 I’m currently learning ...
+- 😄 I like to write code
+- 🌱 I am constantly learning new things
 
 
 <!--
