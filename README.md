@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Eduard
 
-## I'm a work in  QA Automation, QA manual, JS, WebdriverIO, Cypress, Plawright, Cucumber
+## I'm a work in  QA Automation, JS, WebdriverIO, Cypress, Plawright, Cucumber
 - I like to write code
 - I am constantly learning new things
 
