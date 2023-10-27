@@ -1,9 +1,5 @@
 ### Hi there 👋 , I'm Eduard
 
-## I'm a work in  QA Automation, JS, WebdriverIO, Cypress, Plawright, Cucumber
-- 😄 I like to write code
-- 🌱 I am constantly learning new things
-
 
 <!--
 **Y3star/Y3star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
